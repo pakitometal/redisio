@@ -5,6 +5,8 @@ This file is used to list changes made in each version of the redisio cookbook.
 
 ## Unreleased
 
+- Skip ulimit resources creation for Debian if no ulimit users has been set.
+
 ## 6.2.0 - *2022-02-14*
 
 - Adds support for Rocky Linux
